@@ -13,7 +13,7 @@ def find_min_in_nested_arrays(src)
     end 
     
     new_arr << small_num
-    row_idx =+ 1
+    row_idx += 1
   end 
   new_arr
 end 
